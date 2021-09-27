@@ -1,6 +1,6 @@
 # project-arcadia
 
-Project Arcadia is the is a dumpsite for the theories.... that have benn tested or are to be tested.
+Project Arcadia is the is a dumpsite for the theories.... that have been tested or are to be tested.
 
 ## Idea1: Produce subprimes
 
